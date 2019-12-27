@@ -1,5 +1,0 @@
-/lib/**/*.ts
-!/lib/**/*d.ts
-index.ts
-.idea/
-test/
